@@ -13,6 +13,7 @@
     "url": "https://github.com/rainprotocol/rain-protocol/issues"
   },
   "homepage": "http://rainprotocol.github.io/rain-protocol/",
+  "main": "./bin/a.js",
   "bin": {
     "abc": "./bin/a.js",
     "gen-opmeta": "./bin/genOpmeta.ts",
