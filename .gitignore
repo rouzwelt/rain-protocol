@@ -7,7 +7,6 @@ typechain
 artifacts
 build
 venv
-bin
 docs/api
 *.tgz
 .npmrc
